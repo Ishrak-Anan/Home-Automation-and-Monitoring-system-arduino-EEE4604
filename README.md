@@ -30,6 +30,20 @@ This repository contains the source code, project documents, hardware diagrams, 
 
 ---
 
+## My Contribution
+
+This project was developed collaboratively as part of our EEE 4604 coursework.
+
+My contributions included:
+
+- **Component Sourcing** — Helped identify and source the components required for the home automation and monitoring prototype.
+- **Proteus Simulation** — Contributed to designing, running, and checking the circuit simulation in Proteus.
+- **Testing & Debugging** — Assisted in testing the system and troubleshooting circuit, simulation, and integration issues during development.
+- **Project Documentation** — Contributed to preparing the project report and documenting the system design, implementation, and results.
+
+This was a collaborative team project, and the original repository is maintained by  
+[Ar-Rafi-Ishraq](https://github.com/Ar-Rafi-Ishraq/Home-Automation-and-Monitoring-system-arduino-EEE4604).
+
 ## Features
 
 The final hardware implementation supports:
